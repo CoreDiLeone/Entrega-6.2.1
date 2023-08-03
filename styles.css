@@ -10,9 +10,9 @@ body {
 
 .link-button {
     text-decoration: none;
-    color: black;
+    color: rgb(56, 56, 56);
     border: 1px solid gray;
-    background-color: #f2f2f2;
+    background-color: rgb(110, 254, 208);
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
