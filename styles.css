@@ -3,7 +3,7 @@
 
 }
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(170, 170, 246)
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(70, 38, 70);
     border-radius: 10px;
     height: 400px;
 }
