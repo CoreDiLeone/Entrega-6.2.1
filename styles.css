@@ -1,5 +1,13 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
 body {
     background-color: rgb(170, 170, 246)
+}
+
+h1 {
+    text-align: center;
 }
 
 .image{
@@ -7,6 +15,8 @@ body {
     border-radius: 10px;
     height: 400px;
 }
+
+/*comentario nuevo*/
 
 .link-button {
     text-decoration: none;
@@ -16,4 +26,9 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+
+.imageCenter{
+    display: flex;
+    justify-content: center;
 }
