@@ -20,12 +20,16 @@ h1 {
 
 .link-button {
     text-decoration: none;
-    color: rgb(56, 56, 56);
-    border: 1px solid gray;
-    background-color: rgb(110, 254, 208);
-    padding: 5px;
+    color: white;
+    font-size: 18px
+    border: none;
+    border-radius:8px;
+    background-color: #008CBA;
+    padding: 15px 32px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    transition-duration: 0.4s;
+    width:250px;
 }
 
 .title {
